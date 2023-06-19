@@ -5,6 +5,7 @@ A list of useful resources for my personal use.
 Build cool stuff.
 
 - [Build Your Own X](https://build-your-own-x.vercel.app/)
+- [Web Interface Guidelines](https://interfaces.rauno.me/)
 
 ## Just Cool Shit
 Learn cool shit from cool people. 
@@ -17,7 +18,8 @@ Technologies and learning resources for Next.js & React frameworks.
 ### Next.js
 - [Next.js](https://nextjs.org/)
 - [SWR](https://swr.vercel.app/)
-- [Next.js 13 Javascript Mastery Course](https://www.youtube.com/watch?v=wm5gMKuwSYk)
+- [awesome-nextjs](https://github.com/unicodeveloper/awesome-nextjs)
+- [Next.js 13 Javascript Mastery Course (YT)](https://www.youtube.com/watch?v=wm5gMKuwSYk)
 
 ### React
 - [React](https://react.dev/)
